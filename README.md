@@ -1,8 +1,11 @@
 # THE MISSION
 
-| Feature | Daily Plan    | Weekly Plan    |
-| :---:   | :-----------: | :------------: |
-| Seconds |            |          283   |
+| Feature             | Daily Plan    | Weekly Plan    |
+| :------------------:| :-----------: | :------------: |
+| Sort by Type        |      Yes      |      Yes         |
+| Sort by Description |      Yes      |      Yes          |
+| Sort by Priority    |      Yes      |      Yes          |
+| Sort by Duration    |      Yes      |       Yes         |
 
 
 # To create environment
