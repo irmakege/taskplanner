@@ -1,3 +1,10 @@
+# THE MISSION
+
+| Feature | Daily Plan    | Weekly Plan    |
+| :---:   | :-----------: | :------------: |
+| Seconds |            |          283   |
+
+
 # To create environment
 ```
 python3.8 -m venv env
