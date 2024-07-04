@@ -7,6 +7,10 @@
 | Sort by Priority    |      Yes      |      Yes          |
 | Sort by Duration    |      Yes      |       Yes         |
 
+1. Sort by type
+2. Sort by priority
+3. Sort by description (if contains time information, locate based on time information in description)
+4. Sort bby duration
 
 # To create environment
 ```
